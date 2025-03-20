@@ -5,6 +5,10 @@
   https://circleci.com/gh/dwave-examples/structural-imbalance-notebook.svg?style=shield)](
   https://circleci.com/gh/dwave-examples/structural-imbalance-notebook)
 
+# Important note
+
+This repository is a fork of [D-Wave's original structural-imbalance-notebook](https://github.com/dwave-examples/structural-imbalance-notebook). The contributors to this fork do not claim ownership or authorship of the original codebase. All credit for the original work belongs to D-Wave Systems and its respective contributors.
+
 # Structural Imbalance 
 
 This notebook explains the quantum processing unit (QPU) programming model used for
